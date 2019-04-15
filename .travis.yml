@@ -19,3 +19,5 @@ deploy:
    api-key:
       secure: 64202109-e605-4e7d-bf67-c100beb84177
    app: e1601132reactspring
+   on:
+        branch: test
